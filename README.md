@@ -22,8 +22,8 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
-- `cd ML-Preprocessor-CLI/`
+- Clone this Repository: `git clone https://github.com/VansaX/ML-CLI.git`
+- `cd ML-CLI/`
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
 - Ex: `python3 main.py dataset.csv`
@@ -32,7 +32,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
+    <img alt="Home screen" src="./screenshots/Screenshot.png"/>
 </p>
 
 ## Future Scope
@@ -40,5 +40,3 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Implementing GUI of this project.
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
-
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
